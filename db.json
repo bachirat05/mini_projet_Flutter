@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "expense",
+      "montant": 2500,
+      "categorie": "Logement",
+      "description": "Logement ",
+      "date": "2026-06-04"
+    },
+    {
+      "userId": 1,
+      "type": "income",
+      "montant": 5000,
+      "categorie": "Salaire",
+      "description": "Salaire de 5000 DH ",
+      "date": "2026-06-11",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "type": "expense",
+      "montant": 1500,
+      "categorie": "Vêtements",
+      "description": "Vêtements de travail à ce prix",
+      "date": "2026-06-05",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "type": "income",
+      "montant": 50000,
+      "categorie": "Investissement",
+      "description": "Un investissement dans une machine thermique ",
+      "date": "2026-06-01",
+      "id": 5
+    }
+  ]
+}
